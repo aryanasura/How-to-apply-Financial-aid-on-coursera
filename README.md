@@ -1,6 +1,6 @@
 # How-to-apply-Financial-aid-on-coursera
 
-#->  Why are you applying for Financial Aid ? (150 words minimum required)
+->  Why are you applying for Financial Aid ? (150 words minimum required)
 
 I was referred to this course by one my senior.
 I checked the syllabus and found it interesting.
