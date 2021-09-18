@@ -1,6 +1,6 @@
 # How-to-apply-Financial-aid-on-coursera
 
-->  Why are you applying for Financial Aid ? (150 words minimum required)
+1.>  Why are you applying for Financial Aid ? (150 words minimum required)
 
 I was referred to this course by one my senior.
 I checked the syllabus and found it interesting.
@@ -12,7 +12,7 @@ It will help perform better in understanding and learning the fiels of <FIELD> a
 I promise that I won't take this opportunity as granted and work hard to learn more and more.  
 
 
-->  How will taking this course help you achieve your career goals ? (150 words minimum required)
+2.>  How will taking this course help you achieve your career goals ? (150 words minimum required)
   
 Right now I am jobless. Companies ask for experience and i dont have any experience.
 I have taken some educational loan and have some living expenses which i do not pay for myself.
@@ -23,7 +23,7 @@ I think enrolling in this course will help me big time in <COURSE NAME> course I
 There is a lot of potential and scope in this career opportunity
 
 
-->  If you answered no, please help us understand why ?
+3.>  If you answered no, please help us understand why ?
   
 I don’t possess a good financial condition at this stage to afford for this course for the above mentioned reasons.
 Sorry I don't have enough money to invest in my education, I can invest only my time now.
