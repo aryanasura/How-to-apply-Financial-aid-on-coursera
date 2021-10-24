@@ -25,7 +25,7 @@ This field needs constant learning and improving. Taking this course will help m
 It can help me advance in my knowledge.
 Courses on Coursera helped me to greatly increase my skill in the past and I like to study here at my own pace.
 I think enrolling in this course will help me big time in course I am pursuing here and aid me in working on some high-quality projects.
-There is a lot of potential and scope in this career opportunity
+There is a lot of potential and scope in this career opportunity.
 
 #
 # 3.  If you answered no, please help us understand why ?
